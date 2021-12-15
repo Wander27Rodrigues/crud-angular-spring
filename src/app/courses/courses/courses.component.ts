@@ -4,6 +4,7 @@ import { catchError, Observable, of } from 'rxjs';
 
 import { Course } from '../model/course';
 import { CoursesService } from '../services/courses.service';
+import { ErrorDialogComponent } from '../../shared/components/error-dialog/error-dialog.component';
 
 @Component({
   selector: 'app-courses',
@@ -25,17 +26,15 @@ export class CoursesComponent implements OnInit {
     this.courses$ = this.CoursesService.list()
     .pipe(
       catchError(error => {
-        console.log(error);
+        this.openError('Erro ao carregar cursos.')
         return of([])
       })
     );
   }
 
-  onError(errorMsg: string){
-    this.dialog.open(DialogDataExempleDiealog, {
-      data: {
-        animal: 'panda'
-      }
+  openError(errorMsg: string) {
+    this.dialog.open(ErrorDialogComponent,{
+      data: errorMsg
     });
   }
 
