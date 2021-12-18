@@ -39,7 +39,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -   [X] Criação de Estrutura
 -   [X] Add  layout
 -   [X] Inclindo Spinner
--   [ ] Tratamento de Erros
+-   [X] Tratamento de Erros
+-   [X] Criação de API
 
 
 ## 💻 Projeto
