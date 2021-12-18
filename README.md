@@ -41,6 +41,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -   [X] Inclindo Spinner
 -   [X] Tratamento de Erros
 -   [X] Criação de API
+-   [] Criar Controler
 
 
 ## 💻 Projeto
