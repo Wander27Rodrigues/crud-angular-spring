@@ -42,6 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -   [X] Tratamento de Erros
 -   [X] Criação de API
 -   [] Criar Controler
+-   [] conexao com o banco 🧮 
 
 
 ## 💻 Projeto
