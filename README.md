@@ -41,8 +41,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -   [X] Inclindo Spinner
 -   [X] Tratamento de Erros
 -   [X] Criação de API
--   [] Criar Controler
--   [] conexao com o banco 🧮 
+-   [X] Criar Controler
+-   [X] conexao com o banco 🧮 
+-   [] criar proxy
 
 
 ## 💻 Projeto
