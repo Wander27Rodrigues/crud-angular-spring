@@ -43,8 +43,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -   [X] Criação de API
 -   [X] Criar Controler
 -   [X] conexao com o banco 🧮 
--   [] criar proxy
-
+-   [X] criar proxy
+-   [ ] criar add cursos
 
 ## 💻 Projeto
 
