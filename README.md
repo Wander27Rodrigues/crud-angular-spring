@@ -1,39 +1,54 @@
-<h1 align="center"> 
-	🚧 🚀 Em construção...  🚧
+<h1 align="center">
+  crud-angular-spring
 </h1>
 
-  <h2 align="center">
-    <img alt="crud-angular" title="CRUD" src="#" width="220px" />
-  </h2>
-
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wander27rodrigues/crud-angular-spring?style=flat-square">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wander27rodrigues/crud-angular-spring?style=flat-square">
+
+  <a href="https://github.com/wander27rodrigues/menu_mobile/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wander27rodrigues/crud-angular-spring?style=flat-square">
+  </a>
+  
+  <a href="https://img.shields.io/wercker/build/wander27rodrigues/crud-angular-spring/main?style=flat-square">
+    <img alt="Build" src="https://img.shields.io/wercker/build/wander27rodrigues/crud-angular-spring/main?style=flat-square">
+  </a>
+  
+<p align="center">
+  <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-Licença">Licença</a>
 </p>
 
+</p>
+
+
+> Status do Projeto: ⚠️  (desenvolvimento)
+
+
+
+## 💻 Sobre o projeto
+Esse é um projeto que realizei para treinar antes de implementar no meu tcc
+
+## ⚙️ Funcionalidades
+
+- [x] Transições
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+-   HTML
+-   CSS
+-   ANGULAR
+-   SPRING
+## 🔖 Layout
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="crud" src="#" width="60%">
 </p>
 
-<br>
-
-<p align="center">
-  <img alt="crud" src="#" width="100%">
-</p>
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML
-- SCSS
-- TypeScript
-
----
 ## Tarefas 
 
 -   [X] Criação de Estrutura
@@ -46,29 +61,49 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -   [X] criar proxy
 -   [ ] criar add cursos
 
-## 💻 Projeto
+### ✔️ Pré-requisitos
 
-## Versão
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
+### :arrow_forward: Rodando 
 
-## Executando o projeto  ⚙
+```bash
 
-Utilize o **yarn** ou o **npm install** para instalar as depedências do projeto.
-Em seguida, inicie o projeto.
+# Clone este repositório
+$ git clone git@github.com:Wander27Rodrigues/crud-angular-spring.git
 
-```cl
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Acesse a pasta do projeto no terminal/cmd
+$ cd crud-angular-spring
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
+
 ```
+## 💪 Como contribuir no projeto
 
-## Build
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 📝 Licença
 
-## 🔖 Layout
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
+### Autor
 ---
 
-## :memo: Licença
+<a href="https://wander27rodrigues.github.io/#home">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48796830?v=4" width="10%;" alt=""/>
+ <br />
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Feito com ❤️ por Wander Souza 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Wander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wander-souza/)](https://www.linkedin.com/in/wander-souza/) 
+[![Outlook Badge](https://img.shields.io/badge/-wanderrodrigues_@outlook.com-blue?style=flat-square&logo=Outlook&logoColor=white&link=mailto:wanderrodrigues_@outlook.com)](mailto:wanderrodrigues_@outlook.com)
