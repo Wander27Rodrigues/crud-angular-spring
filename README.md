@@ -11,9 +11,6 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wander27rodrigues/crud-angular-spring?style=flat-square">
   </a>
   
-  <a href="https://img.shields.io/wercker/build/wander27rodrigues/crud-angular-spring/main?style=flat-square">
-    <img alt="Build" src="https://img.shields.io/wercker/build/wander27rodrigues/crud-angular-spring/main?style=flat-square">
-  </a>
   
 <p align="center">
   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
