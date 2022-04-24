@@ -27,7 +27,7 @@
 
 
 ## 💻 Sobre o projeto
-Esse é um projeto que realizei para treinar antes de implementar no meu tcc
+Esse é um projeto que realiza o CRUD usando angular 12 e spring boot 
 
 ## ⚙️ Funcionalidades
 
