@@ -1,0 +1,4 @@
+com\wander\controller\CourseController.class
+com\wander\model\Course.class
+com\wander\repository\CourseRepository.class
+com\wander\CrudSpringApplication.class
