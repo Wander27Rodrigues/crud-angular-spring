@@ -29,16 +29,13 @@
 ## 💻 Sobre o projeto
 Esse é um projeto que realiza o CRUD usando angular 12 e spring boot 
 
-## ⚙️ Funcionalidades
-
-- [x] Transições
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 -   HTML
 -   CSS
+-   SCSS
 -   ANGULAR
 -   SPRING
 ## 🔖 Layout
@@ -56,7 +53,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   [X] Criar Controler
 -   [X] conexao com o banco 🧮 
 -   [X] criar proxy
--   [ ] criar add cursos
+-   [X] criar add cursos
+-   [ ] editar
 
 ### ✔️ Pré-requisitos
 
