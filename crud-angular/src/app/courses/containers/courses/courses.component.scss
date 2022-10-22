@@ -1,0 +1,14 @@
+.table {
+    overflow: auto;
+    max-height: 600px;
+    width: 90%;
+    padding: 2em 2em 2em 3em;
+}
+
+.loading-spinner {
+    padding: 4em;
+    background: rgba(85, 166, 253, 0.15);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
