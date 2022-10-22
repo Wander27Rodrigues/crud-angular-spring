@@ -23,4 +23,9 @@ export class CoursesService {
     );
   }
 
+  save(record: Course) {
+    console.log('Salvando' + record);
+    return this.httpClient.post<Course>(this.API, record);
+  }
+
 }
